@@ -9,8 +9,8 @@ public class Revese {
         {
             char demo = name.charAt(i);
             reve=reve+demo;
-            System.out.println(reve);
 
-        }
+
+        }System.out.println(reve);
     }
 }
